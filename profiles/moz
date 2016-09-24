@@ -1,12 +1,12 @@
 # This profile includes all the rules provided by vera++
 
-
 set rules {
   F001
   F002
   L001
   L002
   L003
+  L004
   L005
   L006
   T001
@@ -30,6 +30,5 @@ set rules {
 }
 
 set parameter {
-	max-line-length=120
+  max-line-length=90
 }
-
